@@ -1,6 +1,6 @@
 server: "hub-cloud.browserstack.com"
-user: "BROWSERSTACK_USERNAME"
-key: "BROWSERSTACK_ACCESS_KEY"
+user: "user"
+key: "key"
 
 common_caps:
   "build": "rspec-browserstack"
